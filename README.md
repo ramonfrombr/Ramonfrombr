@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ramonfrombr
+- 👀 I’m interested in JavaScript, Flask, PHP, C# and Python
+- 🌱 I’m currently learning JavaScript, PHP and C#
+- 💞️ I’m looking to collaborate on JavaScript libraries
+- 📫 How to reach me: Instagram @ramonrodriguesomero
