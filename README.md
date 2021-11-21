@@ -1,9 +1,5 @@
 # 🇺🇸 🇧🇷 🇪🇸 🇫🇷 
 
-<br>
-<hr>
-<br>
-
 ### 🇺🇸 English
 
 ### Hi there, I'm Ramon from Brazil 👋 
