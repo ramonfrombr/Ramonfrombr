@@ -1,9 +1,7 @@
 🇺🇸 🇧🇷 🇪🇸 🇫🇷 
 <br>
-<br>
-<br>
-<br>
 <hr>
+<br>
 
 ### 🇺🇸 English
 
@@ -102,7 +100,9 @@
 
 </details>
 
-
+<br>
+<hr>
+<br>
 
 ### 🇧🇷 Português
 
@@ -202,6 +202,10 @@
 
 </details>
 
+<br>
+<hr>
+<br>
+
 ### 🇪🇸 Español
 
 
@@ -299,6 +303,10 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+
+<br>
+<hr>
+<br>
 
 ### 🇫🇷 Français
 
