@@ -1,21 +1,21 @@
 🇺🇸 🇧🇷 🇪🇸 🇫🇷 
 
 
-### 🇺🇸 English
 
 
-### 🇧🇷 Português
 
-
-### 🇪🇸 Español
 
 
 ### 🇫🇷 Français
 
+
+
+
+
 ```diff
-- text in red
-+ text in green
-! text in orange
+- ### 🇺🇸 English
++ ### 🇧🇷 Português
+! ### 🇪🇸 Español
 # text in gray
 @@ text in purple (and bold)@@
 ```
