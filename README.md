@@ -13,7 +13,7 @@
 
 
 ```diff
-- ### 🇺🇸 English
+### - 🇺🇸 English
 + ### 🇧🇷 Português
 ! ### 🇪🇸 Español
 # text in gray
