@@ -40,7 +40,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Styled Components" width="26px" src="https://modern-web-design-showcase-1.netlify.app/static/logo-styled-components-6263cf155a7d379349e02572f45df980.png" />][reactplaylist]
-[<img align="left" alt="Material UI" width="26px" src=" https://mui.com/static/logo.png" />][reactplaylist] 
+[<img align="left" alt="Material UI" width="26px" src="https://mui.com/static/logo.png" />][reactplaylist] 
 [<img align="left" alt="React Native" width="26px" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" />][reactplaylist]
 [<img align="left" alt="NextJS" width="26px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />][reactplaylist]
   
