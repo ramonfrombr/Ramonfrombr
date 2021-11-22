@@ -239,7 +239,7 @@
 
 - 🌱 J'apprends actuellement React et React Native
 - 👯 Je cherche à collaborer avec d'autres créateurs de contenu
-- 🥅 2022 Goals: Contribute more to the Flask open source project
+- 🥅 Objectifs pour 2022 : Contribuer au projet open source Flask
 - ⚡ Fait amusant : j'aime apprendre d'autres langues et j'en parle actuellement 8.
 
 ### Contactez moi:
