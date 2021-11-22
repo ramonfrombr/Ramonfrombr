@@ -82,17 +82,17 @@
 ### 🇧🇷 Português
 
 
-### Hi there, I'm Ramon from Brazil 👋 
+### Olá, meu nome é Ramon 👋 
 
 
-## I'm a Developer and Teacher!!
+## Eu sou um Desenvolvedor Web/Mobile e Professor!!
 
-- 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to the Flask open source project
-- ⚡ Fun fact: I love to learn other languages and currently speak 8.
+- 🌱 No momento, eu estou aprendendo React e React Native
+- 👯 Estou em busca de outros criadores de conteúdo para colaborar
+- 🥅 Objetivos para 2022: Contribuir para o projeto open source Flask
+- ⚡ Curiosidade: Eu amo aprender outros idiomas e atualmente falo 8.
 
-### Connect with me:
+### Entre em contato comigo:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ramon Omero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -102,7 +102,7 @@
 
 ##
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
   
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
