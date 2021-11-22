@@ -1,5 +1,3 @@
-# 🇺🇸 🇧🇷 🇪🇸 🇫🇷 
-
 
 <details>
   <summary>🇺🇸 English</summary>
@@ -428,41 +426,14 @@
 
 </details>
   
-  
-  
   <!--END_SECTION:activity-->
 
 </details>
 
 
 
-<br>
-<hr>
-<br>
-
-
-<br>
-<hr>
-<br>
-
-
-<br>
-<hr>
-<br>
-
-
-
-
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
+[website]: https://ramon-rodrigues.web.app/
+[course]: https://cs50xemportugues.github.io/
+[youtube]: https://www.youtube.com/channel/UCJWJr7ZvX9QqyITKVA6-Kjw
+[instagram]: https://www.instagram.com/ramonrodriguesomero/
+[linkedin]: https://www.linkedin.com/in/ramon-rodrigues-533021151/
