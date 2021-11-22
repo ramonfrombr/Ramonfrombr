@@ -38,6 +38,7 @@
 
 <br><br>
 
+[<img align="left" alt="Node.js" width="40px" src="https://digitalents.com.br/wp-content/uploads/2016/03/js-logo.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Styled Components" width="40px" src="https://modern-web-design-showcase-1.netlify.app/static/logo-styled-components-6263cf155a7d379349e02572f45df980.png" />][reactplaylist]
