@@ -52,7 +52,7 @@
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][webdevplaylist]
 [<img align="left" alt="SQLAlchemy" width="40px" src="https://butecotecnologico.com.br/comecando-com-sql-alchemy/sql-alchemy-logo_hu9aaae5cb0138810bd2a9b3020b120bcf_12170_200x200_resize_q90_bgffffff_linear_2.jpg" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="40px" src="http://db4beginners.com/wp-content/uploads/2017/10/LogoMongoDB-pq-300x300.png" />][webdevplaylist]
   
 <br><br>
 
