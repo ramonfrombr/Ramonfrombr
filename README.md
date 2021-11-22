@@ -157,17 +157,17 @@
 ### 🇪🇸 Español
 
 
-### Hi there, I'm Ramon from Brazil 👋 
+### Hola, soy Ramon de Brasil 👋 
 
 
-## I'm a Developer and Teacher!!
+## Soy Desarrollador Web/Móvil y Profesor!!
 
-- 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to the Flask open source project
-- ⚡ Fun fact: I love to learn other languages and currently speak 8.
+- 🌱 Actualmente estoy aprendiendo React y React Native
+- 👯 Busco colaborar con otros creadores de contenido.
+- 🥅 Objetivos para 2022: Contribuir al proyecto de código abierto Flask
+- ⚡ Dato curioso: me encanta aprender otros idiomas y actualmente hablo 8.
 
-### Connect with me:
+### Contáctame:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ramon Omero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -177,7 +177,7 @@
 
 ##
 
-### Languages and Tools:
+### Lenguajes y Gerramientas:
 
   
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -232,17 +232,17 @@
   ### 🇫🇷 Français
 
 
-### Hi there, I'm Ramon from Brazil 👋 
+### Salut, je suis Ramon du Brésil 👋 
 
 
-## I'm a Developer and Teacher!!
+## Je suis Développeur et Enseignant!!
 
-- 🌱 I’m currently learning React and React Native
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 J'apprends actuellement React et React Native
+- 👯 Je cherche à collaborer avec d'autres créateurs de contenu
 - 🥅 2022 Goals: Contribute more to the Flask open source project
-- ⚡ Fun fact: I love to learn other languages and currently speak 8.
+- ⚡ Fait amusant : j'aime apprendre d'autres langues et j'en parle actuellement 8.
 
-### Connect with me:
+### Contactez moi:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ramon Omero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -252,7 +252,7 @@
 
 ##
 
-### Languages and Tools:
+### Langues et Outils:
 
   
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
