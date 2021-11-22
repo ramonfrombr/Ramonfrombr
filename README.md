@@ -51,7 +51,7 @@
 
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][webdevplaylist]
-[<img align="left" alt="Flask" width="26px" src="ambient-it.net/wp-content/uploads/2019/12/Logo-Flask-200x175.png" />][webdevplaylist]
+[<img align="left" alt="Flask" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktWcwqOKuoJk6xqB69FKht2MzilB1TtJCoA&usqp=CAU" />][webdevplaylist]
 [<img align="left" alt="Django" width="26px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />][webdevplaylist]
 
   
