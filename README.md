@@ -18,9 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ramon Omero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ramon Omero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ramon Omero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
 ##
@@ -96,9 +94,7 @@
 ### Entre em contato comigo:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ramon Omero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ramon Omero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ramon Omero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
 ##
@@ -171,9 +167,7 @@
 ### Contáctame:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ramon Omero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ramon Omero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ramon Omero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
 ##
@@ -246,9 +240,7 @@
 ### Contactez moi:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ramon Omero | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ramon Omero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ramon Omero | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
 ##
@@ -304,14 +296,6 @@
 
 [website]: https://ramon-rodrigues.web.app/
 [course]: https://cs50xemportugues.github.io/
-[youtube]: https://www.youtube.com/channel/UCJWJr7ZvX9QqyITKVA6-Kjw
-[instagram]: https://www.instagram.com/ramonrodriguesomero/
-[linkedin]: https://www.linkedin.com/in/ramon-rodrigues-533021151/
-
-[website]: https://ramon-rodrigues.web.app/
-[course]: https://cs50xemportugues.github.io/
-[youtube]: https://www.youtube.com/channel/UCJWJr7ZvX9QqyITKVA6-Kjw
-[instagram]: https://www.instagram.com/ramonrodriguesomero/
 [linkedin]: https://www.linkedin.com/in/ramon-rodrigues-533021151/
 
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
