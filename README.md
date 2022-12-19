@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ramon Rodrigues | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Send Email" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.clipartmax.com/png/middle/213-2136124_mail-svg-png-icon-free-download-mail-png-clipart.png) ramonfrombr@gmail.com" />][email]
+[<img align="left" alt="Send Email" width="22px" src="https://www.clipartmax.com/png/middle/213-2136124_mail-svg-png-icon-free-download-mail-png-clipart.png" /> ramonfrombr@gmail.com][email]
   
 <br>
 
