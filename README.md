@@ -52,12 +52,12 @@
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
-[<img align="left" alt="SQLAlchemy" width="40px" src="https://www.sqlalchemy.org/img/sqla_logo.png" />][sqlalchemy]
+[<img align="left" alt="SQLAlchemy" width="40px" src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png" />][sqlalchemy]
 [<img align="left" alt="MongoDB" width="40px" src="http://db4beginners.com/wp-content/uploads/2017/10/LogoMongoDB-pq-300x300.png" />][mongodb]
 [<img align="left" alt="Firebase" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxjzsQpOalMSB4BItKZwxls1NrYYJDGqsZg&usqp=CAU" />][firebase]
 [<img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />][graphql]
  
-<br><br>
+<br>
 
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Flask" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktWcwqOKuoJk6xqB69FKht2MzilB1TtJCoA&usqp=CAU" />][flask]
@@ -310,7 +310,7 @@
 [sass]: https://sass-lang.com/
 
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[typescript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[typescript]: https://www.typescriptlang.org/
 [nodejs]: https://nodejs.org/en/
 [react]: https://reactjs.org/
 [react-native]: https://reactnative.dev/
@@ -318,16 +318,17 @@
 
 [mui]: https://mui.com/pt/
 [styled]: https://styled-components.com/
-[tailwindcss]: https://styled-components.com/
+[tailwindcss]: https://tailwindcss.com/
 
 [sql]: https://en.wikipedia.org/wiki/SQL
 [mysql]: https://www.mysql.com/
 [postgresql]: https://www.postgresql.org/
 [sqlalchemy]: https://www.sqlalchemy.org/
 [mongodb]: https://www.mongodb.com/
-[firebase]: https://www.mongodb.com/
+[graphql]: https://graphql.org/
+[firebase]: https://firebase.google.com/
 
 [python]: https://www.python.org/
 [flask]: https://flask.palletsprojects.com/
 [django]: https://www.djangoproject.com/
-[fastapi]: https://www.djangoproject.com/
+[fastapi]: https://fastapi.tiangolo.com/
