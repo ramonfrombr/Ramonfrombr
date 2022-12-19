@@ -34,7 +34,7 @@
 
 <br><br>
 
-[<img align="left" alt="JavaScript" width="40px" src="https://www.belinazzi.com.br/wp-content/uploads/2022/11/javascript-logo-1.png" />][javascript]
+[<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />][javascript]
 [<img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
