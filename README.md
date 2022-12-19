@@ -17,8 +17,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ramon Omero | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ramon Rodrigues | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Send Email" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.clipartmax.com/png/middle/213-2136124_mail-svg-png-icon-free-download-mail-png-clipart.png) ramonfrombr@gmail.com" />][email]
+  
 <br>
 
 ##
@@ -287,6 +289,7 @@
 [website]: https://ramon-rodrigues.web.app/
 [course]: https://cs50xemportugues.github.io/
 [linkedin]: https://www.linkedin.com/in/ramon-rodrigues-533021151/
+[email]: mailto:ramonfrombr@gmail.com
 
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
