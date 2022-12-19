@@ -40,12 +40,12 @@
 [<img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-  
-[<img align="left" alt="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
-[<img align="left" alt="Material UI" width="40px" src="https://mui.com/static/logo.png" />][mui]
-  [<img align="left" alt="Styled Components" width="40px" src="https://modern-web-design-showcase-1.netlify.app/static/logo-styled-components-6263cf155a7d379349e02572f45df980.png" />][styled]
 [<img align="left" alt="React Native" width="40px" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" />][react-native]
 [<img align="left" alt="NextJS" width="40px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />][nextjs]
+[<img align="left" alt="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
+[<img align="left" alt="Material UI" width="40px" src="https://mui.com/static/logo.png" />][mui]
+[<img align="left" alt="Styled Components" width="40px" src="https://modern-web-design-showcase-1.netlify.app/static/logo-styled-components-6263cf155a7d379349e02572f45df980.png" />][styled]
+
 
 <br><br>
 
@@ -57,17 +57,13 @@
 [<img align="left" alt="Firebase" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxjzsQpOalMSB4BItKZwxls1NrYYJDGqsZg&usqp=CAU" />][firebase]
 [<img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />][graphql]
  
-<br>
+<br><br>
 
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Flask" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktWcwqOKuoJk6xqB69FKht2MzilB1TtJCoA&usqp=CAU" />][flask]
 [<img align="left" alt="Django" width="40px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />][django]
 [<img align="left" alt="FastAPI" width="40px" src="https://docs.pydantic.dev/sponsor_logos/fastapi.png" />][fastapi]
 
-  
-  
-  
-  
 <br><br>
 
 ##
