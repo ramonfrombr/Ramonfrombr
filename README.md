@@ -86,7 +86,7 @@
 
 - 🌱 No momento, eu estou aprendendo React e React Native
 - 👯 Estou em busca de outros criadores de conteúdo para colaborar
-- 🥅 Objetivos para 2022: Contribuir para o projeto open source Flask
+- 🥅 Objetivos para 2023: Contribuir para o projeto open source Flask
 - ⚡ Curiosidade: Eu amo aprender outros idiomas e atualmente falo 8.
 
 ### Entre em contato comigo:
@@ -159,7 +159,7 @@
 
 - 🌱 Actualmente estoy aprendiendo React y React Native
 - 👯 Busco colaborar con otros creadores de contenido.
-- 🥅 Objetivos para 2022: Contribuir al proyecto de código abierto Flask
+- 🥅 Objetivos para 2023: Contribuir al proyecto de código abierto Flask
 - ⚡ Dato curioso: me encanta aprender otros idiomas y actualmente hablo 8.
 
 ### Contáctame:
@@ -232,7 +232,7 @@
 
 - 🌱 J'apprends actuellement React et React Native
 - 👯 Je cherche à collaborer avec d'autres créateurs de contenu
-- 🥅 Objectifs pour 2022 : Contribuer au projet open source Flask
+- 🥅 Objectifs pour 2023 : Contribuer au projet open source Flask
 - ⚡ Fait amusant : j'aime apprendre d'autres langues et j'en parle actuellement 8.
 
 ### Contactez moi:
