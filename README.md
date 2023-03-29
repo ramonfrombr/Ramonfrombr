@@ -1,10 +1,9 @@
-
-### Hi there, I'm Ramon from Brazil 👋 
+# Hi there, I'm Ramon Rodrigues from Brazil 👋 
 
 
 ## I'm a Developer and Teacher!!
 
-- 🌱 I’m currently learning TypeScript React and TypeScript React Native
+- 🌱 I’m currently learning GraphQL and Express
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to the Flask open source project
 - ⚡ Fun fact: I love to learn other languages and currently speak 8.
