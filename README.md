@@ -20,19 +20,13 @@
 
 ### Languages and Tools:
 
+<br><br>
+
+##### Frontend
+
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />][ubuntu]
-[<img align="left" alt="Firebase" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxjzsQpOalMSB4BItKZwxls1NrYYJDGqsZg&usqp=CAU" />][firebase]
-
-<br><br>
-
-[<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />][javascript]
-[<img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="React Native" width="40px" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" />][react-native]
 [<img align="left" alt="NextJS" width="40px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />][nextjs]
@@ -42,14 +36,11 @@
 
 <br><br>
 
-[<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
-[<img align="left" alt="SQLAlchemy" width="40px" src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png" />][sqlalchemy]
-[<img align="left" alt="MongoDB" width="40px" src="http://db4beginners.com/wp-content/uploads/2017/10/LogoMongoDB-pq-300x300.png" />][mongodb]
-[<img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />][graphql]
- 
-<br><br>
+##### Backend
+
+[<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />][javascript]
+[<img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
+[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Flask" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktWcwqOKuoJk6xqB69FKht2MzilB1TtJCoA&usqp=CAU" />][flask]
@@ -58,7 +49,23 @@
 
 <br><br>
 
+##### Databases
 
+[<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
+[<img align="left" alt="SQLAlchemy" width="40px" src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png" />][sqlalchemy]
+[<img align="left" alt="MongoDB" width="40px" src="http://db4beginners.com/wp-content/uploads/2017/10/LogoMongoDB-pq-300x300.png" />][mongodb]
+[<img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />][graphql]
+[<img align="left" alt="Firebase" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxjzsQpOalMSB4BItKZwxls1NrYYJDGqsZg&usqp=CAU" />][firebase]
+
+<br><br>
+
+##### Tools
+
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />][ubuntu]
 
 [website]: https://ramon-rodrigues.web.app/
 [course]: https://cs50xemportugues.github.io/
