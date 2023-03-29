@@ -20,8 +20,6 @@
 
 ### Languages and Tools:
 
-<br><br>
-
 ##### Frontend
 
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -51,7 +49,6 @@
 
 ##### Databases
 
-[<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
 [<img align="left" alt="SQLAlchemy" width="40px" src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png" />][sqlalchemy]
