@@ -27,7 +27,6 @@
 [<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="React Native" width="40px" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png" />][react-native]
-[<img align="left" alt="NextJS" width="40px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />][nextjs]
 [<img align="left" alt="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
 [<img align="left" alt="Material UI" width="40px" src="https://mui.com/static/logo.png" />][mui]
 [<img align="left" alt="Styled Components" width="40px" src="https://modern-web-design-showcase-1.netlify.app/static/logo-styled-components-6263cf155a7d379349e02572f45df980.png" />][styled]
