@@ -41,7 +41,6 @@
 
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Flask" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktWcwqOKuoJk6xqB69FKht2MzilB1TtJCoA&usqp=CAU" />][flask]
-[<img align="left" alt="Django" width="40px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" />][django]
 [<img align="left" alt="FastAPI" width="40px" src="https://docs.pydantic.dev/sponsor_logos/fastapi.png" />][fastapi]
 
 <br><br>
