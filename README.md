@@ -61,6 +61,11 @@
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />][ubuntu]
 
+[<img align="left" alt="Ubuntu" width="40px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png
+)" />][ubuntu]
+
+
+
 [website]: https://ramon-rodrigues.web.app/
 [course]: https://cs50xemportugues.github.io/
 [linkedin]: https://www.linkedin.com/in/ramon-rodrigues-533021151/
@@ -69,6 +74,7 @@
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [ubuntu]: https://ubuntu.com/
+[docker]: https://www.docker.com/
 
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
