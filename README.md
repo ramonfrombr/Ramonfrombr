@@ -60,9 +60,7 @@
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />][ubuntu]
-
-[<img align="left" alt="Ubuntu" width="40px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png
-)" />][ubuntu]
+[<img align="left" alt="Ubuntu" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />][docker]
 
 
 
