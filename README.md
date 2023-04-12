@@ -8,14 +8,12 @@
 
 
 ## About me  
-- 🎓 I'm graduated in Computer Science at FAESA
+- 🎓 I'm graduated in 4 computer science courses from Harvard University's CS50
 - 👨‍💻 I’m currently working at [Yampi](https://www.yampi.com.br/) using web development technologies like Vue.js, Javascript, HTML, CSS.
 - 📚 I’m currently (always) learning everything about Frontend and studying backend using NestJS.
 - 💪🏼 Future Goals: Never stop learning and creating ideas, i intend to study and improve my skills for a loooooong time.
 - 🌎 I'm brazilian, i live in the state of Espírito Santo.
-- 🤩 I'm 24 years old, i love read all related to computer science, mainly about front end and Vue.js (i love Vue so much), but i like all areas, without exception.
-- 🤝 Most of my contribuitions are for third-party projects.
-- 😌 I never deleted one single repository from my profile, here we have all my progression of my entire life.
+- 🤩 I'm 26 years old, i love read all related to computer science, mainly about front end and Vue.js (i love Vue so much), but i like all areas, without exception.
 
 
 ### Contact with me 📝
@@ -45,15 +43,25 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /></a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /></a> 
+
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+
 <a href="https://www.apollographql.com" target="_blank"> <img src="https://img.shields.io/badge/apollo-162A45?style=for-the-badge&logo=apollo%20graphql&logoColor=white" alt="apollo" /> </a>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
+
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 <a href="https://material-ui.org/" target="_blank"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" /></a>
+
 <a href="https://www.styled-components.com" target="_blank"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" /></a>
 
 ### Back-end
