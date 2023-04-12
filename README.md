@@ -14,24 +14,6 @@
 - 🌎 I'm brazilian, i live in the state of Espírito Santo.
 - 🤩 I'm 26 years old, i love read all related to computer science, mainly about front end and React.js (i love React so much), but i like all areas, without exception.
 
-
-### Contact with me 📝
-
-<a href="https://www.linkedin.com/in/luiz-guilherme-almada-00349a19a/" alt="linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:luizg.almada@gmail.com" alt="gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luizg.almada@gmail.com" />
-</a>
-
-<a href="https://www.instagram.com/guido.ac/" alt="instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<br />
-
-
 ## Languages and Tools 🛠 
 
 ### Front-end
@@ -49,32 +31,20 @@
 <a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" /> </a>
 
  
-### Testing
+### Testing, Version Control, CI/CD, Hosting, & Others
 
 <a href="https://www.cypress.io" target="_blank"> <img src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /> </a>
 <a href="https://jestjs.io" target="_blank"> <img src="https://img.shields.io/badge/jest-92414E?style=for-the-badge&logo=jest&logoColor=white" alt="jest" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
-
-### Version Control & CI/CD
-
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-### Hosting
-
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
-
-### Operating System
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
-
-### Others
-
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 <a href="https://npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
