@@ -2,8 +2,6 @@
   Hi there, I'm Ramon Rodrigues - Full Stack Developer 👋
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonfrombr&label=Profile%20views&color=0e75b6&style=flat" alt="ramonfrombr" /> </p>
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## About me  
