@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonfrombr&label=Profile%20views&color=0e75b6&style=flat" alt="ramonfrombr" /> </p>
 
-<p>I am a <span style="color: 'purple'; font: 'bold'">full stack developer</span> who combines code with strategy and design to create value with beautiful modern software.</p>
-
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
