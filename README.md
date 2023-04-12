@@ -35,9 +35,10 @@
 
 <h3>Where To Find Me:</h3>
 <p>
-<p><a href="[https://github.com/amand33p](https://github.com/ramonfrombr)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="[https://www.linkedin.com/in/amand33p](https://www.linkedin.com/in/rodrigues-ramon/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p><a href="[https://github.com/amand33p](https://github.com/ramonfrombr)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="[https://www.linkedin.com/in/amand33p](https://www.linkedin.com/in/rodrigues-ramon/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-<h3>My Projects:</h3>
-<p>
-Check the pinned repositories below. 👇
-</p>
+<h3>My Portfolio:</h3>
+
+<p>Visit <a href="https://ramon-rodrigues.web.app/">https://ramon-rodrigues.web.app/</a></p>
+
+<p>Or check the pinned repositories below. 👇</p>
