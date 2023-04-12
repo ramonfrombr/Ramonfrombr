@@ -6,7 +6,7 @@
 
 ## About me  
 - 🎓 I graduated in 4 computer science courses from Harvard University's CS50 online course.
-- 📚 I’m currently teaching Harvard University's CS50 course in Portuguese online. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
+- 📚 I’m currently teaching Harvard University's CS50 course in Portuguese online, with support from Harvard University. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
 - 💪🏼 Future Goals: Never stop learning and building things.
 - ⭐ Fun fact: I am a polyglot
 
