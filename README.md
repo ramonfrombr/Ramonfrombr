@@ -53,11 +53,11 @@
 
 ---
 
-<h3>Where To Find Me:</h3>
+<h2>Where To Find Me:</h2>
 <p>
 <p><a href="https://www.linkedin.com/in/rodrigues-ramon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-<h3>My Portfolio:</h3>
+<h2>My Portfolio:</h2>
 
 <p>Visit <a href="https://ramon-rodrigues.web.app/">https://ramon-rodrigues.web.app/</a></p>
 
