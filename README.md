@@ -1,103 +1,43 @@
-# Hi there, I'm Ramon from Brazil 👋 
+<h2>Hey there, I'm Ramon </h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramonfrombr&label=Profile%20views&color=0e75b6&style=flat" alt="ramonfrombr" /> </p>
 
-## I'm a Developer and Teacher!!
+<h3 align="left">Languages & Tools:</h3>
 
-- 🌱 I’m currently learning GraphQL and Express
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to the Flask open source project
-- ⚡ Fun fact: I love to learn other languages and currently speak 8.
+<p align="left">
 
-### Connect with me:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /></a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+<a href="https://www.styled-components.com" target="_blank"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" /></a>
+<a href="https://material-ui.org/" target="_blank"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" /></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a>
+<a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> </a>
+<a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" /> </a>
+<a href="https://www.apollographql.com" target="_blank"> <img src="https://img.shields.io/badge/apollo-162A45?style=for-the-badge&logo=apollo%20graphql&logoColor=white" alt="apollo" /> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
+<a href="https://www.cypress.io" target="_blank"> <img src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /> </a>
+<a href="https://jestjs.io" target="_blank"> <img src="https://img.shields.io/badge/jest-92414E?style=for-the-badge&logo=jest&logoColor=white" alt="jest" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
+<a href="https://npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
+</p>
 
-[<img align="left" alt="Portfolio" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ramon Rodrigues | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Send Email" width="40px" src="https://www.clipartmax.com/png/middle/213-2136124_mail-svg-png-icon-free-download-mail-png-clipart.png" />][email]
-  
-<br>
+<h3>Where To Find Me:</h3>
+<p>
+<p><a href="[https://github.com/amand33p](https://github.com/ramonfrombr)" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="[https://www.linkedin.com/in/amand33p](https://www.linkedin.com/in/rodrigues-ramon/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
-##
-
-### Languages and Tools:
-
-##### Frontend
-
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][tailwindcss]
-[<img align="left" alt="Material UI" width="40px" src="https://mui.com/static/logo.png" />][mui]
-[<img align="left" alt="Styled Components" width="40px" src="https://modern-web-design-showcase-1.netlify.app/static/logo-styled-components-6263cf155a7d379349e02572f45df980.png" />][styled]
-
-<br><br>
-
-##### Backend
-
-[<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />][javascript]
-[<img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-
-[<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
-[<img align="left" alt="Flask" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktWcwqOKuoJk6xqB69FKht2MzilB1TtJCoA&usqp=CAU" />][flask]
-[<img align="left" alt="FastAPI" width="40px" src="https://docs.pydantic.dev/sponsor_logos/fastapi.png" />][fastapi]
-
-<br><br>
-
-##### Databases
-
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][postgresql]
-[<img align="left" alt="SQLAlchemy" width="40px" src="https://pbs.twimg.com/profile_images/476392134489014273/q5uAkmy7_400x400.png" />][sqlalchemy]
-[<img align="left" alt="MongoDB" width="40px" src="http://db4beginners.com/wp-content/uploads/2017/10/LogoMongoDB-pq-300x300.png" />][mongodb]
-[<img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />][graphql]
-[<img align="left" alt="Firebase" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxjzsQpOalMSB4BItKZwxls1NrYYJDGqsZg&usqp=CAU" />][firebase]
-
-<br><br>
-
-##### Tools
-
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="Ubuntu" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />][ubuntu]
-[<img align="left" alt="Ubuntu" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />][docker]
-
-
-
-[website]: https://ramon-rodrigues.web.app/
-[course]: https://cs50xemportugues.github.io/
-[linkedin]: https://www.linkedin.com/in/ramon-rodrigues-533021151/
-[email]: mailto:ramonfrombr@gmail.com
-
-[vscode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[ubuntu]: https://ubuntu.com/
-[docker]: https://www.docker.com/
-
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[sass]: https://sass-lang.com/
-
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[typescript]: https://www.typescriptlang.org/
-[nodejs]: https://nodejs.org/en/
-[react]: https://reactjs.org/
-[react-native]: https://reactnative.dev/
-[nextjs]: https://nextjs.org/
-
-[mui]: https://mui.com/pt/
-[styled]: https://styled-components.com/
-[tailwindcss]: https://tailwindcss.com/
-
-[sql]: https://en.wikipedia.org/wiki/SQL
-[mysql]: https://www.mysql.com/
-[postgresql]: https://www.postgresql.org/
-[sqlalchemy]: https://www.sqlalchemy.org/
-[mongodb]: https://www.mongodb.com/
-[graphql]: https://graphql.org/
-[firebase]: https://firebase.google.com/
-
-[python]: https://www.python.org/
-[flask]: https://flask.palletsprojects.com/
-[django]: https://www.djangoproject.com/
-[fastapi]: https://fastapi.tiangolo.com/
+<h3>My Projects:</h3>
+<p>
+Check the pinned repositories below. 👇
+</p>
