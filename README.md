@@ -6,13 +6,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-
 ## About me  
-- 🎓 I'm graduated in 4 computer science courses from Harvard University's CS50 online computer science course.
-- 📚 I’m currently (always) learning everything about Frontend and studying backend using Express.
-- 💪🏼 Future Goals: Never stop learning and creating ideas, i intend to study and improve my skills for a loooooong time.
-- 🌎 I'm brazilian, i live in the state of Espírito Santo.
-- 🤩 I'm 26 years old, i love read all related to computer science, mainly about front end and React.js (i love React so much), but i like all areas, without exception.
+- 🎓 I graduated in 4 computer science courses from Harvard University's CS50 online computer science course.
+- 📚 I’m currently teaching Harvard University's CS50 course in Portuguese online.
+- 💪🏼 Future Goals: Never stop learning and creating ideas.
 
 ## Languages and Tools 🛠 
 
