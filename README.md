@@ -4,6 +4,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+## Where To Find Me:
+
+<p><a href="https://www.linkedin.com/in/rodrigues-ramon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+
 ## About me  
 - 🎓 I graduated in 4 computer science courses from Harvard University's CS50 online course.
 - 📚 I’m currently teaching Harvard University's CS50 course in Portuguese online, with support from Harvard University. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
@@ -43,10 +47,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-
-<h2>Where To Find Me:</h2>
-<p>
-<p><a href="https://www.linkedin.com/in/rodrigues-ramon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 <h2>My Portfolio:</h2>
 
