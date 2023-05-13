@@ -9,9 +9,7 @@
 <p><a href="https://www.linkedin.com/in/rodrigues-ramon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 ## About me  
-- 🎓 I graduated in 4 computer science courses from Harvard University's CS50 online course.
-- 📚 I’m currently teaching Harvard University's CS50 course in Portuguese online, with support from Harvard University. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
-- 💪🏼 Future Goals: Never stop learning and building things.
+- 📚 Currently teaching Harvard University's CS50 course in Portuguese online, with support from Harvard University. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
 
 ## Languages and Tools 🛠 
 
