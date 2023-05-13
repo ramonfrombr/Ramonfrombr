@@ -9,7 +9,8 @@
 <p><a href="https://www.linkedin.com/in/rodrigues-ramon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 ## About me  
-- 📚 Currently teaching Harvard University's CS50 course in Portuguese online, with support from Harvard University. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
+- 📚 I teach Harvard University's CS50 in Portuguese. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
+- 📚 I produce courses in Portuguese for freeCodeCamp. <a href="[https://cs50xemportugues.github.io/](https://www.youtube.com/@freecodecampemportugues)" target="_blank">Click here</a> to go our YouTube channel.
 
 ## Languages and Tools 🛠 
 
