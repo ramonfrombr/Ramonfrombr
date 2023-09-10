@@ -2,8 +2,6 @@
   Hi there, I'm Ramon Rodrigues - Software Engineer 👋
 </h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## Where To Find Me:
 
 <p><a href="https://www.linkedin.com/in/rodrigues-ramon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
