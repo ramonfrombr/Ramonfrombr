@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Ramon Rodrigues - Full Stack Developer 👋
+  Hi there, I'm Ramon Rodrigues - Software Engineer 👋
 </h1>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
