@@ -2,7 +2,7 @@
 
 
 ## About me  
-- 📚 I teach Harvard University's CS50 in Portuguese. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
+- 📚 I teach Harvard University's CS50x in Portuguese. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
 - 📚 I produce courses for freeCodeCamp in Portuguese. <a href="https://www.youtube.com/@freecodecampemportugues" target="_blank">Click here</a> to go our YouTube channel.
 
 ## Where To Find Me:
