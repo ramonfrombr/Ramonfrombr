@@ -2,7 +2,7 @@
 
 
 ## 🖖 Hello
-Software engineer with 6+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable with web, mobile, and API development.
+Software engineer with 7+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable with web, mobile, and API development.
 
 ## 👨‍🏫 Teaching
 - 📚 I teach Harvard University's CS50x in Portuguese. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
