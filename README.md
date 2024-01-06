@@ -3,13 +3,11 @@
 ## 🖖 Hello
 Full stack software engineer with 7+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable with web, mobile, and API development.
 
-## 🌐 My Personal Website:
-
-<p style="font-size:50px">Visit <a href="https://ramonrodrigues.dev/">https://ramonrodrigues.dev/</a></p>
-
 ## ☎️ Where To Find Me:
+<p style="font-size:50px">Visit <a href="https://www.linkedin.com/in/rodrigues-ramon/">https://www.linkedin.com/in/rodrigues-ramon/</a></p>
 
-<p><a href="https://www.linkedin.com/in/rodrigues-ramon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+## 🌐 My Personal Website:
+<p style="font-size:50px">Visit <a href="https://ramonrodrigues.dev/">https://ramonrodrigues.dev/</a></p>
 
 ## 👨‍🏫 Teaching
 - 📚 I teach Harvard University's CS50x in Portuguese. <a href="https://cs50xemportugues.github.io/" target="_blank">Click here</a> to go to the course's website.
