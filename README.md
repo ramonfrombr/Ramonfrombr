@@ -2,7 +2,7 @@
 
 I create online courses in Portuguese to teach programming and computer science.
 
-I'm part of the freeCodeCamp Staff, where I create courses for the <a href="https://www.youtube.com/@freecodecampemportugues">freeCodeCamp em Português</a> YouTube Channel.
+I'm part of the freeCodeCamp Staff, where I create courses for the <a target="_blank" href="https://www.youtube.com/@freecodecampemportugues">freeCodeCamp em Português</a> YouTube Channel.
 
 ## 🌐 Where To Find Me:
 - LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/rodrigues-ramon/">https://www.linkedin.com/in/rodrigues-ramon/</a>
