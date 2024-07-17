@@ -7,4 +7,3 @@ I'm part of the freeCodeCamp Staff, where I create courses for the <a target="_b
 ## 🌐 Where To Find Me:
 - LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/rodrigues-ramon/">https://www.linkedin.com/in/rodrigues-ramon/</a>
 - My Website: <a target="_blank" href="https://ramonrodrigues.dev/">https://ramonrodrigues.dev/</a>
-- YouTube: <a target="_blank" href="https://www.youtube.com/@programacaocomramon">Programação com Ramon</a>
