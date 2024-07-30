@@ -12,7 +12,7 @@ I'm Ramon, a software developer and educator living in São Paulo, Brazil.
 **Portuguese**
 
 At Programação com Ramon, I created the following courses:
-- [Programming with Python for Beginners](https://www.youtube.com/watch?v=yaqVbs9f_xg).
+- [Programming with Python for Beginners (6 hour course)](https://www.youtube.com/watch?v=yaqVbs9f_xg).
 
 At freeCodeCamp em Português, I created the following tutorials:
 - [JavaScript Project: To Do List](https://www.youtube.com/watch?v=1loPW0w2v7w).
