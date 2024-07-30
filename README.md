@@ -1,4 +1,4 @@
-# Hello
+# Hello!
 
 I'm Ramon, a software developer and educator living in São Paulo, Brazil.
 
