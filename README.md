@@ -5,7 +5,7 @@ I'm Ramon, a software developer and educator living in São Paulo, Brazil.
 ## Projects
 
 - [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform.
-- [CS50x Website Builder](https://github.com/ramonfrombr/cs50x-website-builder, a multilanguage website builder for Harvard University's CS50 course.
+- [CS50x Website Builder](https://github.com/ramonfrombr/cs50x-website-builder), a multilanguage website builder for Harvard University's CS50 course.
 
 ## Courses & Tutorials
 
