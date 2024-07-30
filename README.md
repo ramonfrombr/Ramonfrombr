@@ -9,6 +9,8 @@ I'm Ramon, a software developer and educator living in São Paulo, Brazil.
 
 ## Courses & Tutorials
 
+**Portuguese**
+
 At Programação com Ramon, I created the following courses:
 - [Programming with Python for Beginners](https://www.youtube.com/watch?v=yaqVbs9f_xg).
 
