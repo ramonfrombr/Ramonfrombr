@@ -14,7 +14,7 @@ I'm Ramon, a software developer and educator living in São Paulo, Brazil.
 At Programação com Ramon, I created the following courses:
 - [Programming with Python for Beginners](https://www.youtube.com/watch?v=yaqVbs9f_xg).
 
-At freeCodeCamp, I created the following tutorials:
+At freeCodeCamp em Português, I created the following tutorials:
 - [JavaScript Project: To Do List](https://www.youtube.com/watch?v=1loPW0w2v7w).
 - [JavaScript Project: Expense Tracker](https://www.youtube.com/watch?v=rG6VqoljrlY).
 - [JavaScript Project: Drag and Drop Orderable List](https://www.youtube.com/watch?v=aua6M75HKqQ).
