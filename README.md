@@ -2,10 +2,6 @@
 
 I'm Ramon, a software developer and educator living in São Paulo, Brazil.
 
-My interests include computer science education, distance learning, collaborative learning, computer-assisted instruction, natural language processing, chatbots and LLMs.
-
-My toolkit includes, but definitely **not limited to**, Python, JavaScript, Ruby, PHP, SQL, NoSQL.
-
 ## Projects
 
 - [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform.
