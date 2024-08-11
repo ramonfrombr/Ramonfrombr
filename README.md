@@ -10,14 +10,6 @@ I'm Ramon, a software developer living in São Paulo, Brazil.
 - [CS50x en Français](https://cs50xenfrancais.github.io/), the French version of Harvard University's CS50 computer science course.
 - [CS50x Website Builder](https://github.com/ramonfrombr/cs50x-website-builder), a multilanguage website builder for Harvard University's CS50 course.
 
-
-<table>
-  <tr>
-    <td>Hello</td>
-    <td>World</td>
-  </tr>
-</table>
-
 ## Courses & Tutorials
 
 **Portuguese**
