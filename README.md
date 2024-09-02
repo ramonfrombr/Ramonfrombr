@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Ramon, a software developer and educator living in São Paulo, Brazil. I'm currently working for Netzsch.
+I'm Ramon, a software developer living in São Paulo, Brazil. I'm currently working for Netzsch.
 
 ## Projects
 
