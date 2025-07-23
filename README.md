@@ -5,7 +5,7 @@ I'm Ramon, a software developer living in São Paulo, Brazil.
 ## Projects
 
 - [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform.
-- [Next-Auth](https://github.com/ramonfrombr/next-auth), an authentication application for Next.js projects.
+- [Next-Auth-App](https://github.com/ramonfrombr/next-auth-app), an authentication application for Next.js projects.
 - [CS50x em Português](https://cs50xemportugues.github.io/), the Portuguese version of Harvard University's CS50 computer science course.
 - [CS50x en Español](https://cs50xenespanol.github.io/), the Spanish version of Harvard University's CS50 computer science course.
 - [CS50x en Français](https://cs50xenfrancais.github.io/), the French version of Harvard University's CS50 computer science course.
