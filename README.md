@@ -2,6 +2,10 @@
 
 I'm Ramon, a software developer living in São Paulo, Brazil.
 
+I like JavaScript, Python, Ruby, PHP, SQL, NoSQL, Docker, and more.
+
+I teach computer science at freeCodeCamp.
+
 ## Projects
 
 - [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform.
