@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Ramon, a software developer living in São Paulo, Brazil.
+I am Ramon, a full stack software developer living in São Paulo, Brazil.
 
 I like JavaScript, Python, Ruby, PHP, SQL, NoSQL, Docker, and more.
 
