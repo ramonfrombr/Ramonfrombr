@@ -2,9 +2,17 @@
 
 I am Ramon, a full stack software developer living in São Paulo, Brazil.
 
-I like JavaScript, Python, Ruby, PHP, SQL, NoSQL, Docker, and more.
-
 I teach computer science at freeCodeCamp.
+
+I use these tools:
+- JavaScript (React, Next, Node, Express, Nest).
+- Python (Flask, Django).
+- Ruby (Ruby on Rails).
+- PHP.
+- SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Firebase).
+- Docker, Kubernetes, AWS.
+- and more...
+
 
 ## Projects
 
