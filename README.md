@@ -1,6 +1,6 @@
 # Hello!
 
-I am Ramon, a full stack software developer living in São Paulo, Brazil.
+I am Ramon Rodrigues, a full stack software developer living in São Paulo, Brazil.
 
 I teach computer science at freeCodeCamp.
 
