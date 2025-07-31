@@ -20,12 +20,12 @@ I use these tools:
   - Built with React, Next, MongoDB.
 - [Next Auth App](https://github.com/ramonfrombr/next-auth-app), an authentication application boilerplate for Next.js projects.
   - Built with React, Next, MongoDB, Auth.js.
-- [CS50x Website Builder](https://github.com/ramonfrombr/cs50x-website-builder), a multilanguage website builder for Harvard University's CS50 course.
+- [CS50x Website Builder](https://github.com/ramonfrombr/cs50x-website-builder), a multilanguage website builder for Harvard University's CS50x course.
   - Built with Python, Flask, JavaScript, ChatGPT.
   - This application was used to build the following websites:
-    - [CS50x em Português](https://cs50xemportugues.github.io/), the Portuguese version of Harvard University's CS50 computer science course.
-    - [CS50x en Español](https://cs50xenespanol.github.io/), the Spanish version of Harvard University's CS50 computer science course.
-    - [CS50x en Français](https://cs50xenfrancais.github.io/), the French version of Harvard University's CS50 computer science course.
+    - [CS50x em Português](https://cs50xemportugues.github.io/), the Portuguese version of Harvard University's CS50x computer science course.
+    - [CS50x en Español](https://cs50xenespanol.github.io/), the Spanish version of Harvard University's CS50x computer science course.
+    - [CS50x en Français](https://cs50xenfrancais.github.io/), the French version of Harvard University's CS50x computer science course.
 
 ## Courses & Tutorials
 
