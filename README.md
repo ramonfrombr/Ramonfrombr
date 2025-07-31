@@ -2,8 +2,6 @@
 
 I am Ramon Rodrigues, a full stack software engineer living in São Paulo, Brazil.
 
-I teach computer science at freeCodeCamp.
-
 I use these tools:
 - JavaScript (React, Next, Node, Express, Nest).
 - Python (Flask, Django).
@@ -13,6 +11,7 @@ I use these tools:
 - Docker, Kubernetes, AWS.
 - and more...
 
+In my free time, I teach computer science at freeCodeCamp.
 
 ## Projects
 
