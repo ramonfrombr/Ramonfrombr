@@ -7,7 +7,7 @@ I use these tools:
 - Python (Flask, Django).
 - Ruby (Ruby on Rails).
 - PHP.
-- SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Firebase).
+- SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis, Firebase).
 - Docker, Kubernetes, AWS.
 - and more...
 
