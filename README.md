@@ -9,7 +9,7 @@ I use these tools:
 - Docker, Kubernetes, AWS.
 - and more...
 
-In my free time, I teach computer science in my website, !(Programação com Ramon)[https://programacaocomramon.com].
+In my free time, I teach computer science in my website, (Programação com Ramon)[https://programacaocomramon.com].
 
 ## Projects
 
