@@ -5,12 +5,11 @@ I am Ramon Rodrigues, a full stack software engineer living in São Paulo, Brazi
 I use these tools:
 - JavaScript (TypeScript, Node, Express, Nest, React, Next).
 - Python (Flask, Django, FastAPI).
-- Ruby (Ruby on Rails).
 - SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis, Firebase).
 - Docker, Kubernetes, AWS.
 - and more...
 
-In my free time, I teach computer science at freeCodeCamp.
+In my free time, I teach computer science in my website, !(Programação com Ramon)[https://programacaocomramon.com].
 
 ## Projects
 
