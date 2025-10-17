@@ -27,4 +27,3 @@ At Programação com Ramon, I created the following courses (all courses are in 
 ## Contact Me
 - Email: ramon@ramonrodrigues.dev
 - LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/rodrigues-ramon/">https://www.linkedin.com/in/rodrigues-ramon/</a>
-- My Blog: <a target="_blank" href="https://ramonrodrigues.dev/">https://ramonrodrigues.dev/</a>
