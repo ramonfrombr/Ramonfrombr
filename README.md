@@ -13,10 +13,8 @@ In my free time, I teach computer science in my website, [Programação com Ramo
 
 ## Projects
 
-- [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform.
+- [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform, where I teach my courses.
   - Built with React, Next, MongoDB.
-- [Next Auth App](https://github.com/ramonfrombr/next-auth-app), an authentication application boilerplate for Next.js projects.
-  - Built with React, Next, MongoDB, Auth.js.
 
 ## Courses & Tutorials
 
