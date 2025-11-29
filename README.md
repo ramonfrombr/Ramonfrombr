@@ -18,7 +18,7 @@ In my free time, I teach computer science in my website, [Programação com Ramo
 
 ## Courses & Tutorials
 
-At Programação com Ramon, I created the following courses (all courses are in Portuguese):
+I created the following courses (all courses are in Portuguese):
 - [Programming with Python for Beginners (6 hour course)](https://www.youtube.com/watch?v=yaqVbs9f_xg).
 - [Programming with JavaScript for Beginners (8 hour course)](https://www.youtube.com/watch?v=aA31cVca_hI).
 
