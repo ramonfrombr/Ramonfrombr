@@ -4,12 +4,12 @@ I am Ramon Rodrigues, a full stack software engineer living in São Paulo, Brazi
 
 My toolkit includes Linux, JavaScript, Python, SQL, NoSQL, Docker, and more.
 
-In my free time, I teach computer science in my website, [Programação com Ramon](https://programacaocomramon.com).
+In my free time, I teach computer science on my YouTube channel, [Programação com Ramon](https://www.youtube.com/@programacaocomramon).
 
 ## Projects
 
 - [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform, where I teach my courses.
-  - Built with React, Next, MongoDB.
+  - Built with React.js, Next.js, MongoDB, and more.
 
 ## Courses & Tutorials
 
