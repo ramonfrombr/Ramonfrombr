@@ -8,7 +8,7 @@ In my free time, I teach computer science on my YouTube channel, [Programação 
 
 ## Projects
 
-- [Programação com Ramon](https://www.programacaocomramon.com/), a computer science learning platform, where I teach my courses.
+- [Escola de Programação](https://www.escoladeprogramacao.com/), a computer science learning platform, where I teach my courses.
   - Built with React.js, Next.js, MongoDB, and more.
 
 ## Courses & Tutorials
