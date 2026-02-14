@@ -4,7 +4,7 @@ I am Ramon Rodrigues, a full stack software engineer living in São Paulo, Brazi
 
 My toolkit includes Linux, JavaScript, Node.js, React.js, Nest.js, Python, Django, Flask, SQL, DevOps, and more.
 
-In my free time, I teach computer science on my YouTube channel, [Programação com Ramon](https://www.youtube.com/@programacaocomramon).
+In my free time, I teach computer science on my YouTube channel, [Escola de Programação](https://www.youtube.com/@escoladeprogramacaobr).
 
 ## Projects
 
