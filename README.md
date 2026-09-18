@@ -14,8 +14,11 @@ In my free time, I teach computer science on my YouTube channel, [Escola de Prog
 ## Courses & Tutorials
 
 I created the following courses (all courses are in Portuguese):
-- [Programming with Python for Beginners (6 hour course)](https://www.youtube.com/watch?v=yaqVbs9f_xg).
-- [Programming with JavaScript for Beginners (8 hour course)](https://www.youtube.com/watch?v=aA31cVca_hI).
+- [Programming with JavaScript for Beginners (15 hour course)](https://www.youtube.com/playlist?list=PLxytkjDzvsgc8GvXyui89oVETx1yu1pIg).
+- [Web Development with HTML, CSS, and JavaScript for Beginners (40 hour course)](https://www.youtube.com/playlist?list=PLxytkjDzvsgdgW_3EH3SwA7j4SW0RKC_e).
+- [Web Development with HTML, CSS, and JavaScript Intermediate Level (40 hour course)](https://www.youtube.com/playlist?list=PLxytkjDzvsgcnm4sJx3hhLbo9BemTg5LE).
+- [Frontend Development with React.js (20 hour course)](https://www.youtube.com/playlist?list=PLxytkjDzvsgeOGqmyXMP40H7y0xRqa8O5).
+
 
 ## Contact Me
 - Email: ramon@ramonrodrigues.dev
